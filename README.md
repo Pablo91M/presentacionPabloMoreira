@@ -1,17 +1,17 @@
-# Pablo Ruben Moreira.
+# Pablo Rubén Moreira.
 
-### foto
-![ese soy yo](/imagenes/foto.jpg)
+### Ese soy yo!
+![](/imagenes/foto.jpg)
 
 ## Acerca de mí
 
-Soy estudiante de la [UNPAZ](https://www.unpaz.edu.ar/), estoy en la carrera de lincenciatura en gestion de tecnologia de la infomacion (LGTI), tengo 31 años y trabajo en una farmacia, en el setor del laboratorio.
+Soy estudiante de la [UNPAZ](https://www.unpaz.edu.ar/), estoy en la carrera de licenciatura  en gestión de tecnología de la información  (LGTI), tengo 31 años y trabajo en una farmacia, en el sector del laboratorio.
 
 ## Cosas favoritas
 
 * Tocar la guitarra.
-* Escuchar musica.
-* Mirar series y peliculas.
+* Escuchar música.
+* Mirar series y películas.
 * Jugar videojuegos.
 * Pasar tiempo con mi familia.
-* vivo en la localidad de ***JOSE C. PAZ.***
+* Vivo en la localidad de ***JOSE C. PAZ.***
