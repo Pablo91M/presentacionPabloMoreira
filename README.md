@@ -14,4 +14,4 @@ Soy estudiante de la [UNPAZ](https://www.unpaz.edu.ar/), estoy en la carrera de 
 * Mirar series y peliculas.
 * Jugar videojuegos.
 * Pasar tiempo con mi familia.
-* vivo en la localidad de **jose c. paz.**
+* vivo en la localidad de ***JOSE C. PAZ.***
